@@ -46,6 +46,30 @@ Además, cuenta con un menú desde el que el usuario puede seleccionar e impleme
 - Trabajar con Git y control de versiones.
 - Realizar la documentación del proyecto.
 
+## Ejecución
+
+1. Clonar el repositorio.
+2. Abrir `ElJuegoDeLaVida.slnx` con Visual Studio.
+3. Compilar y ejecutar el proyecto.
+
+## Capturas de pantalla
+
+### Menú principal
+
+![Menú principal](screenshots/menu-principal.png)
+
+### Simulación
+
+![Simulación](screenshots/simulacion.png)
+
+### Importar patrones
+
+![Importar patrones](screenshots/importar-patrones.png)
+
+### Modo nocturno
+
+![Modo nocturno](screenshots/modo-nocturno.png)
+
 ## Autor
 
 **Brian Falcon Tirella (TirellaZzz)**
